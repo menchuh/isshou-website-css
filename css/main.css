@@ -1,0 +1,23 @@
+/**
+ * @media all
+ * 全体に適用したいCSSを記述してください。
+ */
+.blog-item__header {
+  display: none;
+}
+.common-header-nav__item {
+  margin-left: 2.5vw;
+}
+.common-header-nav__item a {
+  font-size: 1.4rem;
+}
+.heading-lv2__text:before {
+  margin-top: 0px;
+}
+.u-btn-bg-clr {
+    background-color: #777777;
+  margin-top: 5vh;
+}
+.blog-list--list .blog-item__text {
+    font-size: 1.5rem;
+}

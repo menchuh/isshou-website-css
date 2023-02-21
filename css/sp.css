@@ -1,0 +1,14 @@
+/**
+ * @media (max-width: 800px)
+ * 画面幅が800px以下のスマートフォン、タブレット用のCSSを記述してください。
+ */
+ .heading-lv2__text:before {
+    width: 0px;
+  }
+  .heading-lv2__text {
+    padding-left: 0;
+  }
+  .u-btn-bg-clr {
+      background-color: #777777;
+    margin-top: 3vh;
+  }
