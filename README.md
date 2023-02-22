@@ -3,9 +3,11 @@
 ## Overview  
   
 Ameba Owndで運用しているWebサイトのカスタマイズCSS.  
-URL: [https://isshounoonegai.amebaownd.com/](https://isshounoonegai.amebaownd.com/)  
+および記事のテンプレート  
   
 ## Description  
   
 main.css -> 全体  
 sp.css -> スマートフォン  
+  
+works.template -> 過去公演の記事  
