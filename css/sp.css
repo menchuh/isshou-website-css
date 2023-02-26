@@ -2,13 +2,17 @@
  * @media (max-width: 800px)
  * 画面幅が800px以下のスマートフォン、タブレット用のCSSを記述してください。
  */
- .heading-lv2__text:before {
-    width: 0px;
-  }
-  .heading-lv2__text {
-    padding-left: 0;
-  }
-  .u-btn-bg-clr {
-      background-color: #777777;
-    margin-top: 3vh;
-  }
+.heading-lv2__text:before {
+  width: 0px;
+}
+.heading-lv2__text {
+  padding-left: 0;
+}
+.u-btn-bg-clr {
+  background-color: #777777;
+  margin-top: 3vh;
+}
+.common-header-nav__item a {
+  font-family: "Lato", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN",
+    "メイリオ", "Meiryo", sans-serif;
+}
